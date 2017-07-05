@@ -5,5 +5,5 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-echo "Que hay de nuevo amigo??";
+echo "Que hay de nuevo amigo del alma??";
 ?>
