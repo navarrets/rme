@@ -1,0 +1,6 @@
+<?php
+
+/* 
+ * Librerías RME
+ */
+?>
